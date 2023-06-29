@@ -1,3 +1,5 @@
+This is the basic configuration to use the Server API fetching feature of Nuxt 3. Uses Pinia as state management tool.
+
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
